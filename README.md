@@ -27,10 +27,10 @@ Data Visualization: Matplotlib, Seaborn
 Communication Tools: Google Sheets, Slack, Email
 Programming Languages: Python (mainly)
 
-# License
+## License
 This project is licensed under the MIT License.
 
-# Acknowledgments
+## Acknowledgments
 This system integrates cutting-edge AI tools and frameworks to provide scalable, efficient solutions to common customer support challenges.
 
 
